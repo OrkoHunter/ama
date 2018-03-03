@@ -22,7 +22,7 @@ into some of the older threads.
 
 ### Twitter
 
-If you have something quick and easy, just ping me on Twitter. 140 characters
+If you have something quick and easy, just ping me on Twitter. 280 characters
 makes everyone more efficient. I'm [@OrkoHunter](https://twitter.com/OrkoHunter) on
 Twitter.
 
